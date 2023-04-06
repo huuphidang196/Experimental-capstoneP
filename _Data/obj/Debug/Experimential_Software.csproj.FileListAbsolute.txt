@@ -1,0 +1,13 @@
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.Form1.resources
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.Properties.Resources.resources
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.csproj.GenerateResource.cache
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.csproj.CoreCompileInputs.cache
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\bin\Debug\Experimential_Software.exe.config
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\bin\Debug\Experimential_Software.exe
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\bin\Debug\Experimential_Software.pdb
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.csproj.CopyComplete
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.exe
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.pdb
+D:\Code\CasptonePoject\Experimential\ExperimentialProgram\Experimential_Software\obj\Debug\Experimential_Software.csproj.AssemblyReference.cache
